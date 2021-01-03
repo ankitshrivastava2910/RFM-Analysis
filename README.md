@@ -4,7 +4,7 @@ RFM analysis for customer segmentation is highly significant in retail eCommerce
 
 In today’s e-commerce retail world, businesses require an organized method to analyze customer’s buying behavior and keep them engaged in the buying cycle. Only an apt analysis of customer behavior can drive desired revenue and profits.
 
-o strive in the present customer-driven economy, proper customer insights are necessary to gain. Only then any improvement in user experience may result in establishing long-term relationships between customers and company.
+To strive in the present customer-driven economy, proper customer insights are necessary to gain. Only then any improvement in user experience may result in establishing long-term relationships between customers and company.
 
 Online businesses should remember that customer database are the crucially important resource to analyze customer characteristics and implement suitable marketing strategies.
 
